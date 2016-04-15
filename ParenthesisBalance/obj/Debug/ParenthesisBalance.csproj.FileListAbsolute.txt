@@ -1,0 +1,6 @@
+C:\Dan\ParenthesisBalance\ParenthesisBalance\bin\Debug\ParenthesisBalance.exe.config
+C:\Dan\ParenthesisBalance\ParenthesisBalance\bin\Debug\ParenthesisBalance.exe
+C:\Dan\ParenthesisBalance\ParenthesisBalance\bin\Debug\ParenthesisBalance.pdb
+C:\Dan\ParenthesisBalance\ParenthesisBalance\obj\Debug\ParenthesisBalance.csprojResolveAssemblyReference.cache
+C:\Dan\ParenthesisBalance\ParenthesisBalance\obj\Debug\ParenthesisBalance.exe
+C:\Dan\ParenthesisBalance\ParenthesisBalance\obj\Debug\ParenthesisBalance.pdb
